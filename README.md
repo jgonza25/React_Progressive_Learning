@@ -1,8 +1,8 @@
 Welcome to **React Progressive Learning** – a hands-on project where I progressively learn and apply core concepts of React, including components, props, state management, and deployment using Vite and GitHub Pages.
 
-## 🌐 Live Demo
+## 📁 Folders
 
-Hello World 👉 [Click here to view the live site](https://jgonza25.github.io/React_Progressive_Learning/)
+👉 Hello World (https://github.com/jgonza25/React_Progressive_Learning/tree/main/HelloWorld)
 
 ---
 
