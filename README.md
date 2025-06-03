@@ -2,7 +2,7 @@ Welcome to **React Progressive Learning** – a hands-on project where I progres
 
 ## 🌐 Live Demo
 
-👉 [Click here to view the live site](https://jgonza25.github.io/React_Progressive_Learning/)
+Hello World 👉 [Click here to view the live site](https://jgonza25.github.io/React_Progressive_Learning/)
 
 ---
 
