@@ -7,7 +7,8 @@
     "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "gh-pages -d dist -b gh-pages -r https://github.com/jgonza25/React_Progressive_Learning.git",
+    "deploy-clickcounter": "gh-pages -d ClickCounter/dist -b gh-pages",
     "lint": "eslint .",
     "preview": "vite preview"
   },
