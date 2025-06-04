@@ -1,4 +1,4 @@
-# 👨‍🏫 React Progressive Learning – Teach As You Build
+# 👨‍🏫 React Progressive Learning
 
 Welcome to **React Progressive Learning**, where I teach and build at the same time. This project is designed not just to show what I’m learning in React — but to help **you** learn right alongside me!
 
