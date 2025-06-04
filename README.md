@@ -5,6 +5,8 @@ Welcome to **React Progressive Learning** – a hands-on project where I progres
 👉 <a href="https://github.com/jgonza25/React_Progressive_Learning/tree/main/HelloWorld">Hello World</a>
 <br>
 👉 <a href="https://github.com/jgonza25/React_Progressive_Learning/tree/main/ClickCounter">Click Counter</a>
+<br>
+👉 <a href="https://github.com/jgonza25/React_Progressive_Learning/tree/main/InputForm">Input Form</a>
 
 ---
 
