@@ -2,7 +2,11 @@ Welcome to **React Progressive Learning** – a hands-on project where I progres
 
 ## 📁 Folders
 
-👉 Hello World (https://github.com/jgonza25/React_Progressive_Learning/tree/main/HelloWorld)
+👉 <a href="https://github.com/jgonza25/React_Progressive_Learning/tree/main/HelloWorld">Hello World</a>
+<br>
+👉 <a href="https://github.com/jgonza25/React_Progressive_Learning/tree/main/ClickCounter">Click Counter</a>
+<br>
+👉 <a href="https://github.com/jgonza25/React_Progressive_Learning/tree/main/InputForm">Input Form</a>
 
 ---
 
@@ -13,24 +17,6 @@ Welcome to **React Progressive Learning** – a hands-on project where I progres
 - **JavaScript (ES6+)**
 - **HTML/CSS**
 - **GitHub Pages** for deployment
-
----
-
-## 📁 Project Structure
-
-```
-
-React\_Progressive\_Learning/
-├── public/
-├── src/
-│   ├── components/   # Reusable components
-│   └── App.jsx       # Main app component
-├── dist/             # Built files (after running vite build)
-├── vite.config.js
-├── package.json
-└── README.md
-
-````
 
 ---
 
