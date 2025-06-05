@@ -8,8 +8,8 @@ In this lesson, we’re learning how to **render a list of items dynamically** u
 
 By the end of this lesson, you will:
 
-✅ Understand how to render a list in JSX using `.map()`
-✅ Learn how to create and use custom components
+✅ Understand how to render a list in JSX using `.map()` <br>
+✅ Learn how to create and use custom components <br>
 ✅ Practice separating logic and UI into smaller pieces
 
 ---
