@@ -14,6 +14,7 @@ Each folder is its own mini-lesson. Feel free to explore them in order or jump i
 * 👉 [Click Counter](https://github.com/jgonza25/React_Progressive_Learning/tree/main/ClickCounter) – Learn `useState` with user interaction.
 * 👉 [Input Form](https://github.com/jgonza25/React_Progressive_Learning/tree/main/InputForm) – Practice controlled components and form handling.
 * 👉 [Toggle Button](https://github.com/jgonza25/React_Progressive_Learning/tree/main/ToggleButton) – Build conditional rendering logic.
+* 👉 [List Of Items](https://github.com/jgonza25/React_Progressive_Learning/tree/main/ListOfItems) – Use `map()` to render lists dynamically in JSX.
 
 Each example includes real code, clear concepts, and practical takeaways. Think of this as your hands-on React workbook!
 
